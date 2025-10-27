@@ -1,5 +1,5 @@
-com/example/helloworld/entity/Product.class
-com/example/helloworld/HelloWorldApplication.class
-com/example/helloworld/controller/ProductController.class
-com/example/helloworld/service/ProductService.class
-com/example/helloworld/repository/ProductRepository.class
+com\example\helloworld\service\ProductService.class
+com\example\helloworld\controller\ProductController.class
+com\example\helloworld\entity\Product.class
+com\example\helloworld\HelloWorldApplication.class
+com\example\helloworld\repository\ProductRepository.class
